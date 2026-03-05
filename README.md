@@ -137,7 +137,7 @@ This project addresses critical gaps in how arts policy decisions are understood
 
 **Development Mode** (with hot reload):
 ```bash
-npm run dev
+npx vite dev
 ```
 - Access the app at `http://localhost:5173` (default Vite port)
 - Changes in code automatically reload in the browser
